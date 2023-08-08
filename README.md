@@ -33,10 +33,7 @@ Experience:
 
 - Conducted in-depth data analysis to identify trends, patterns, and anomalies in large datasets.
 - Developed and maintained data pipelines for efficient data extraction and transformation.
-- Collaborated with cross-functional teams to define project requirements and deliver actionable insights.
-- Created interactive dashboards and reports to visualize key performance metrics using Tableau.
-- Assisted in designing and implementing A/B tests to evaluate the impact of various strategies.
-- Provided data-driven recommendations that led to [quantifiable outcomes or achievements].
+
 
 Intern - [Edulakes solution], [APR 2023] - [JUN 2023] 
 - Assisted senior data analysts in collecting, cleaning, and organizing data for analysis.
